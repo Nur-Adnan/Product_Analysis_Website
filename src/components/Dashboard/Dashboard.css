@@ -1,0 +1,6 @@
+.charts {
+  justify-content: center;
+  text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+}

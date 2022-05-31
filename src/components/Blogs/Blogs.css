@@ -1,0 +1,8 @@
+.blogs {
+  width: 600px;
+  margin: auto;
+}
+h2 {
+  font-style: italic;
+  text-transform: capitalize;
+}

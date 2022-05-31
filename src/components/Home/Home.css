@@ -1,0 +1,77 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
+.full {
+  font-family: "Montserrat", sans-serif;
+}
+.home {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  max-width: 1200px;
+  margin: auto;
+}
+
+.Carousel_Items {
+  align-items: center;
+  text-align: center;
+}
+
+span {
+  color: rgb(222, 125, 241);
+}
+.home_button {
+  font-size: 21px;
+  border-radius: 5px;
+  cursor: pointer;
+  text-decoration: none;
+  transition: 0.5s ease-in-out;
+  margin-left: 300px;
+  margin-top: 50px;
+  padding: 10px 20px;
+  color: white;
+  background-color: rgb(222, 125, 241);
+}
+.leftSide_home {
+  font-size: 25px;
+}
+.leftSide_home h2 {
+  line-height: 20px;
+  padding-right: 25px;
+}
+.homesection_review {
+  text-align: center;
+  margin-right: 25px;
+  padding-right: 50px;
+}
+.homesection_review h1 {
+  padding-left: 140px;
+  text-transform: capitalize;
+}
+.home_button:hover {
+  background: transparent;
+  color: rgb(222, 125, 241);
+  border: 1px solid rgb(222, 125, 241);
+}
+img {
+  width: 90%;
+  height: 50%;
+  padding: 35px;
+  margin-left: 80px;
+}
+.downBTN {
+  margin-top: 25px;
+  margin-right: 100px;
+  margin-bottom: 35px;
+}
+/* .homesection__review .Carousel__Items {
+  margin-right: 300px;
+} */
+
+@media only screen and (max-width: 900px) {
+  .home img {
+    margin-top: 30px;
+  }
+  .home {
+    flex-wrap: wrap;
+    text-align: center;
+  }
+}

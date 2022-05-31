@@ -1,0 +1,26 @@
+h2,
+h4,
+h6 {
+  text-align: center;
+  padding: 5px;
+}
+.Carousel__Item {
+  float: left;
+  justify-content: center;
+  margin-left: 250px;
+  padding-top: 20px;
+}
+.Carousel__Item img {
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+}
+.titles {
+  padding-left: 20px;
+  margin-left: 50px;
+}
+
+.Carousel__Item {
+  width: 300px;
+  padding: 10px;
+}

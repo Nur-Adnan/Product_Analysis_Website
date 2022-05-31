@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "product": "Introduction to Algorithms",
+    "profile": "https://tricky-photoshop.com/wp-content/uploads/2017/08/final-1.png",
+    "review_text": "My process for studying this text is to read a section at a time and walk through the examples illustrated. I often struggle with the math that is being demonstrated as a proof for the algorithm. I then research an actual example of the topic discussed and watch a youtube video that demonstrates it in application.",
+    "review_rating": "4 out of 5 stars",
+    "profile_name": "Jayson"
+  },
+  {
+    "id": 2,
+    "product": "Introduction to Algorithms",
+    "profile": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5Fhhep4XlcW5EVuHs8Tov3FjtugtPBKtilCCalhuAuoPfPGYWPn1C2TzuZEEzTTwCfes&usqp=CAU",
+    "review_text": "This book is impressive! It covers a lot of subject matter and is clearly worded. However, you're going to get lost because this often reads more like a reference manual than a conversation that appeals to intuition. You'll be pushed into analyzing algorithms for theoretical data structures that you fuzzily remember (if at all).",
+    "review_rating": "3.0 out of 5 stars",
+    "profile_name": "Braedon"
+  },
+  {
+    "id": 3,
+    "product": "Introduction to Algorithms",
+    "profile": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB1rCE0pN7RhwCeipLcKvY-ZpV1EfQuadEsNbFkmDjTCrYsFS00SklygXYSfNHItoD1Aw&usqp=CAU",
+    "review_text": "yes, yes, it's an algorithm book but it looks like they expect you to be fluent in math so don't expect a primer here. great at making me looks smart to people who look at my bookshelf. I found 'easier' descriptions of common algorithms online but If you already know math like a boss, this would be pretty helpful. Better bring some water because its also pretty dry reading.",
+    "review_rating": "4.5 out of 5 stars",
+    "profile_name": "Quincy"
+  },
+  {
+    "id": 4,
+    "product": "Introduction to Algorithms",
+    "profile": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtG3tbkjJMXzqkuwRmEI48A8ZuZFMu-JcRTiBs4OjuZ6n0yyS03OYpLtKRVcxqLs84pZo&usqp=CAU",
+    "review_text": "I, like many others, was sold a counterfeit version of this book (confirmed by the publisher) where the pages were of poor quality and fell out very easily. Even so, despite the seller not responding to multiple messages, Amazon REFUSED to follow through on their A to Z guarentee. I recommend NOT buying (anything) from Amazon for this reason. I ended up purchasing a new copy from a legitimate seller (Barnes and Noble) as shown in the photo at the top, and you can really tell the difference! Lessons learned; will NEVER buy from Amazon again.",
+    "review_rating": "3.5 out of 5 stars",
+    "profile_name": "Jovan"
+  },
+  {
+    "id": 5,
+    "product": "Introduction to Algorithms",
+    "profile": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJqeaZZEUcOEOIVnhY3-BxMm5dK9Z2fFZpepPUNaHjOqGYs7cnMqOeG7pE2ZJPLH4h5is&usqp=CAU",
+    "review_text": "But I got it for a price of 900 Rs. Still, it's not correct for the seller to ship a Xerox copy. And the quality of the xerox is not good as well because in many pages, the ink is too light and almost not readable.",
+    "review_rating": "4.5 out of 5 stars",
+    "profile_name": "Reese"
+  },
+  {
+    "id": 6,
+    "product": "Introduction to Algorithms",
+    "profile": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9DJXi449gQDnTkZQisNoqXQ09yfj8fQa5oT2pbbiilYkkjYumUTP6cdTvm6ue6pFH6AE&usqp=CAU",
+    "review_text": "I have bought this book years ago but only now I have realised that over 100 pages are missing (I usually use an electronic version of it). You clearly can see from the images that it is not possible seeing the missing pages from the side of the tome that means the book is was originally faulty. Over £32! That is what you call a proper SCAM!",
+    "review_rating": "3.5 out of 5 stars",
+    "profile_name": "Arthur"
+  },
+  {
+    "id": 7,
+    "product": "Introduction to Algorithms",
+    "profile": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3G9mNpsNB66QU2SovJja79nFaEmEwK95J2Wf4JLGmoJh3OGJd1_FRfkeSLHhZ3zMo8TA&usqp=CAU",
+    "review_text": "Comprehensive and large selection of algorithms with emphasis on analysis of the runtime of the algorithms. Written as student textbook so some of elaboration and analysis is presented as exercises to be completed. The algorithms themselves are clearly described and given in pseudo-code, but there is no difficulty transcribing them into an actual language.",
+    "review_rating": "2.0 out of 5 stars",
+    "profile_name": "Haiden"
+  },
+  {
+    "id": 8,
+    "product": "Introduction to Algorithms",
+    "profile": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw-xQJ1O-OI1DGkS-TjaVTN95oXWFA5OIrbPLeB-w_b1ooXsQ6HGF6eDbI3JRDjApxqIw&usqp=CAU",
+    "review_text": "It seems like amazon provided copy version of book. Even the figures are not clear.",
+    "review_rating": "4.5 out of 5 stars",
+    "profile_name": "Myles"
+  }
+]
